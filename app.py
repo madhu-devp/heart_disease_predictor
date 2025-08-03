@@ -26,18 +26,6 @@ accuracy = accuracy_score(y_test, model.predict(X_test))
 # Page Config
 st.set_page_config(page_title="Heart Disease Predictor", layout="centered")
 
-# Custom Background
-st.markdown(
-    """
-    <style>
-    .stApp {
-        background-image: url("ht.jpg");
-        background-size: cover;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
 
 # Sidebar
 st.sidebar.title("🩺 Heart Disease Predictor")
