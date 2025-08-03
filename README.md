@@ -15,5 +15,10 @@ This is a simple and stylish AI-powered app built using Python and Streamlit tha
 - Sections like: Help, Tips, AI Chat (Coming Soon)
 
 
-## 📁 Project Structure
+## 📩 Contact
+
+Made with ❤️ by [madhu]  
+📧 Email: madhupodilapu999@gmail.com  
+🌐 GitHub: (https://github.com/madhulatha-dev)
+
 
