@@ -19,6 +19,6 @@ This is a simple and stylish AI-powered app built using Python and Streamlit tha
 
 Made with ❤️ by Madhu
 📧 Email: [madhu](madhupodilapu999@gmail.com)
-🌐 GitHub: [madhulatha-dev](https://github.com/madhu-devp)
+🌐 GitHub: [madhu-devp](https://github.com/madhu-devp)
 
 
